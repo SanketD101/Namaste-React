@@ -1,0 +1,6 @@
+Emmet => Generate some code in vs code.
+
+Embed html element using js =>
+
+CDN ?
+crossorigin
