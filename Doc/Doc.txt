@@ -4,3 +4,4 @@ Embed html element using js =>
 
 CDN ?
 crossorigin
+check
