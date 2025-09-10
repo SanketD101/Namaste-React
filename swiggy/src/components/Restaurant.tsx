@@ -25,7 +25,7 @@ const Restaurant = () => {
   console.log("f", filterData);
 
   return (
-    <div style={{ display: "flex", gap: "30px", flexWrap: "wrap" }}>
+    <div className="pt-26 flex flex-wrap gap-4 lg:gap-12">
       {filterData && filterData.map((restro) => <Card restro={restro} />)}
     </div>
   );
